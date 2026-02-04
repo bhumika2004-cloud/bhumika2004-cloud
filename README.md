@@ -47,15 +47,17 @@ I’m a Computer Science student exploring how technology shapes the world. I en
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhumika2004-cloud&show_icons=true&hide_border=true&theme=calm" height="160"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=bhumika2004-cloud&show_icons=true&hide_border=true&theme=calm" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2004-cloud&layout=compact&hide_border=true&theme=calm" height="160"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2004-cloud&layout=compact&hide_border=true&theme=calm" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika2004-cloud&theme=calm&hide_border=true" height="160"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=bhumika2004-cloud&theme=calm&hide_border=true" height="160" />
 
 </div>
 
----
 
 ## 🌐 Connect
 **Email:** khadkabhumika09@gmail.com  
