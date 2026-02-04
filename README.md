@@ -59,6 +59,7 @@ I’m a Computer Science student exploring how technology shapes the world. I en
 </div>
 
 
+
 ## 🌐 Connect
 **Email:** khadkabhumika09@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/bhumika-khadka
