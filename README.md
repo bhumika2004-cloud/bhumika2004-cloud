@@ -2,7 +2,7 @@
 
 ### Computer Science Student • Data Enthusiast • Lifelong Learner
 
-I’m a Computer Science student exploring how technology shapes the world. I enjoy learning through projects, certifications, and hands‑on practice — building my foundation one step at a time. My interests span data science, programming, networking, and digital creativity.
+I’m a Computer Science student exploring how technology shapes the world. I enjoy learning through projects, certifications, and hands‑on practice. I am building my foundation one step at a time. My interests span data science, programming, networking, and digital creativity.
 
 ---
 
@@ -42,23 +42,6 @@ I’m a Computer Science student exploring how technology shapes the world. I en
 - Dean’s List: Spring ’24, Fall ’24, Fall ’25  
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=bhumika2004-cloud&show_icons=true&hide_border=true&theme=calm" height="160" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2004-cloud&layout=compact&hide_border=true&theme=calm" height="160" />
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=bhumika2004-cloud&theme=calm&hide_border=true" height="160" />
-
-</div>
-
-
 
 ## 🌐 Connect
 **Email:** khadkabhumika09@gmail.com  
