@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bhumika-khadka"><img src="https://img.shields.io/badge/LinkedIn-b8c0ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:khadkabhumika09@gmail.com"><img src="https://img.shields.io/badge/Email-fde2e4?style=for-the-badge&logo=gmail&logoColor=555555" /></a>
+  <a href="https://bhumika2004-cloud.github.io/Bhumika-portfolio/"><img src="https://img.shields.io/badge/Portfolio-d8e2dc?style=for-the-badge&logo=github&logoColor=555555" /></a>
   <img src="https://img.shields.io/badge/Location-Ardmore,%20OK-e2ece9?style=for-the-badge&logo=googlemaps&logoColor=555555" />
 </p>
 
@@ -17,11 +18,11 @@
 
 ### 🎀 About Me
 
-> *"Blending curiosity, creativity, and technical skills to explore how technology shapes the world—building my foundation one project, one certification, and one challenge at a time."*
+> *"Blending curiosity, creativity, and technical skills to explore how technology shapes the world—building my foundation one project, one certification, and one challenge at a time."*[cite: 1]
 
-* 🎓 **Education:** Pursuing a **B.S. in Computer Science** at **East Central University** (Expected Dec 2027)
-* 💡 **Interests:** Data Science, Data Engineering, Web Development, and Digital Marketing Strategy
-* 🏆 **Achievements:** Multi-semester President's & Dean's List Scholar | Award-winning Web Developer | IPA 2026 Official Selection
+* 🎓 **Education:** Pursuing a **B.S. in Computer Science** at **East Central University** (Expected Dec 2027)[cite: 1]
+* 💡 **Interests:** Data Science, Data Engineering, Web Development, and Digital Marketing Strategy[cite: 1]
+* 🏆 **Achievements:** Multi-semester President's & Dean's List Scholar[cite: 1] | Award-winning Web Developer | IPA 2026 Official Selection[cite: 1]
 * 🌟 **Currently:** Strengthening algorithms & database fundamentals while building creative end-to-end applications
 
 ---
@@ -42,18 +43,14 @@
 
 ---
 
-### 🐣 Highlighted Projects
-├── 🐣 HATCH & HUNT
-│   ├── 🏆 Award: Programiz Challenge Winner & Wall of Inspiration Feature
-│   ├── 🛠️ Tech Stack: HTML5, CSS3, JavaScript
-│   ├── 🌐 Live Portfolio: https://bhumika2004-cloud.github.io/Bhumika-portfolio/
-│   └── 📝 Festive, interactive web application with multi-page architecture featuring a timed
-│          "Egg Hunt" game, custom "Egg Designer" tool, dynamic dynamic hatch logic, and confetti celebrations.
-│
-└── 📊 Market & Data Content Analysis
-├── 💼 Experience: Global Opportunities Nepal
-└── 📝 Executed market research, competitor analytics, and data content strategies to support outreach goals.
+### 🐣 Featured Projects
 
+| Project | Tech Stack | Highlights & Key Features | Links |
+| :--- | :--- | :--- | :--- |
+| **🐣 HATCH & HUNT** | `HTML5` `CSS3` `JavaScript` | • **Award-Winning:** Programiz Challenge Winner & featured on the Wall of Inspiration.<br>• **Multi-Page Web App:** Interactive Easter-themed platform engineered for immersive UI/UX.<br>• **Core Features:** Includes a timed "Egg Hunt" mini-game, custom "Egg Designer" canvas tool, dynamic hatch logic, and confetti celebration effects. | [Live Demo](https://bhumika2004-cloud.github.io/Bhumika-portfolio/) |
+| **📊 Market Data & Research Analytics** | `Data Analysis` `Market Research` `Figma` | • **Data Analytics:** Conducted comprehensive market research and data analysis during an 8-month stint at Global Opportunities Nepal.<br>• **Content Strategy:** Structured datasets and consumer insights to optimize digital reach and client conversion paths. | [Resume PDF](https://www.linkedin.com/in/bhumika-khadka) |
+
+---
 
 ### 🏅 Honors & Certifications
 
@@ -65,4 +62,22 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=pastel&hide_border=true&title_color=b8c0ff&icon_color=d8b4fe&text_color=6c757d&bg_color=faf4f6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=pastel&hide_border=true&title_color=b8c0ff&text_color=6c757d&bg_color=faf4f6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b8c0ff&height=100&section=footer" width="100%" />
+
+
+
+</div>
 
