@@ -54,30 +54,15 @@
 
 ### 🏅 Honors & Certifications
 
-* 📜 **Introduction to Data Science**[cite: 1]
-* 📜 **AWS Educate:** Getting Started with Networking[cite: 1]
-* 📜 **The Fundamentals of Digital Marketing**[cite: 1]
-* 🏆 **President's Honor Roll & Dean's List** (Spring '24, Fall '24, Fall '25)[cite: 1]
-* 📸 **International Photography Awards (IPA) 2026** — Official Selection[cite: 1]
+* 📜 **Introduction to Data Science**
+* 📜 **AWS Educate:** Getting Started with Networking
+* 📜 **The Fundamentals of Digital Marketing**
+* 🏆 **President's Honor Roll & Dean's List** (Spring '24, Fall '24, Fall '25)
+* 📸 **International Photography Awards (IPA) 2026** — Official Selection
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=pastel&hide_border=true&title_color=b8c0ff&icon_color=d8b4fe&text_color=6c757d&bg_color=faf4f6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=pastel&hide_border=true&title_color=b8c0ff&text_color=6c757d&bg_color=faf4f6" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b8c0ff&height=100&section=footer" width="100%" />
 
 
 
-</div>
 
