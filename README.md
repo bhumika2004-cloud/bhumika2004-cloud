@@ -48,7 +48,7 @@
 │   ├── 🛠️ Tech Stack: HTML5, CSS3, JavaScript
 │   ├── 🌐 Live Portfolio: https://bhumika2004-cloud.github.io/Bhumika-portfolio/
 │   └── 📝 Festive, interactive web application with multi-page architecture featuring a timed
-│          "Egg Hunt" game, custom "Egg Designer" tool, dynamic hatch logic, and confetti celebrations.
+│          "Egg Hunt" game, custom "Egg Designer" tool, dynamic dynamic hatch logic, and confetti celebrations.
 │
 └── 📊 Market & Data Content Analysis
 ├── 💼 Experience: Global Opportunities Nepal
