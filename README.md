@@ -65,21 +65,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=pastel&hide_border=true&title_color=b8c0ff&icon_color=d8b4fe&text_color=6c757d&bg_color=faf4f6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=pastel&hide_border=true&title_color=b8c0ff&text_color=6c757d&bg_color=faf4f6" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b8c0ff&height=100&section=footer" width="100%" />
-
-<sub><i>Designed with 💖 pastel vibes & creativity</i></sub>
-
-</div>
