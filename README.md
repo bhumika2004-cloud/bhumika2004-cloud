@@ -1,54 +1,45 @@
-# Hi there, I'm Bhumika Khadka 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-khadka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadkabhumika09@gmail.com)
+<!-- PASTEL HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d8b4fe&height=200&section=header&text=✨%20Hi,%20I'm%20Bhumika%20Khadka%20✨&fontsize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
----
+### 🌸 CS Student | Aspiring Data Scientist & Engineer | Creative Builder 🌸
 
-### 🎓 About Me
-I'm an **undergraduate Computer Science student** at **East Central University** (expected graduation: December 2027) with a passion for blending curiosity, creativity, and technical problem-solving. From software development to data science, design, and continuous learning, I enjoy exploring how technology shapes our world.
-
-- 🔭 **Currently Focusing On**: Data Science, Algorithms, Web Development, and Database Systems.
-- 🏆 **Honors & Awards**: President's Honor Roll, Dean's List (Spring '24, Fall '24, Fall '25), IPA 2026 Official Selection.
-- 🌱 **Learning & Growing**: Continuously expanding my foundation through projects, hands-on challenges, and industry certifications.
-
----
-
-### 🛠️ Languages, Tools & Technologies
-
-#### **Programming & Web Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### **Data Science & Frameworks**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-
-#### **Design, Platforms & Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhumika-khadka"><img src="https://img.shields.io/badge/LinkedIn-b8c0ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khadkabhumika09@gmail.com"><img src="https://img.shields.io/badge/Email-fde2e4?style=for-the-badge&logo=gmail&logoColor=555555" /></a>
+  <img src="https://img.shields.io/badge/Location-Ardmore,%20OK-e2ece9?style=for-the-badge&logo=googlemaps&logoColor=555555" />
+</p>
 
 ---
 
-### 📜 Certifications
-- **Introduction to Data Science**
-- **AWS Educate Getting Started with Networking**
-- **Applied Intermediate Skills in Microsoft Access**
-- **The Fundamentals of Digital Marketing**
-- **Intro to Programming**
+</div>
+
+### 🎀 About Me
+
+> *"Blending curiosity, creativity, and technical skills to explore how technology shapes the world—building my foundation one project, one certification, and one challenge at a time."*
+
+* 🎓 **Education:** Pursuing a **B.S. in Computer Science** at **East Central University** (Expected Dec 2027)
+* 💡 **Interests:** Data Science, Data Engineering, Web Development, and Digital Marketing Strategy
+* 🏆 **Achievements:** Multi-semester President's & Dean's List Scholar | Award-winning Web Developer | IPA 2026 Official Selection
+* 🌟 **Currently:** Strengthening algorithms & database fundamentals while building creative end-to-end applications
 
 ---
 
-### 💼 Experience
-- **Market Research Analyst & Data Content Specialist** — *Global Opportunities Nepal* (May 2023 – Dec 2023)
+### 🎨 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-fde2e4?style=flat-square&logo=python&logoColor=555555" />
+  <img src="https://img.shields.io/badge/JavaScript-fff1e6?style=flat-square&logo=javascript&logoColor=555555" />
+  <img src="https://img.shields.io/badge/HTML5-fcd5ce?style=flat-square&logo=html5&logoColor=555555" />
+  <img src="https://img.shields.io/badge/CSS3-f8edeb?style=flat-square&logo=css3&logoColor=555555" />
+  <img src="https://img.shields.io/badge/SQL-e8e8e4?style=flat-square&logo=postgresql&logoColor=555555" />
+  <img src="https://img.shields.io/badge/Figma-d8e2dc?style=flat-square&logo=figma&logoColor=555555" />
+  <img src="https://img.shields.io/badge/AWS-ffe5ec?style=flat-square&logo=amazon-aws&logoColor=555555" />
+  <img src="https://img.shields.io/badge/VS_Code-f0efeb?style=flat-square&logo=visualstudiocode&logoColor=555555" />
+  <img src="https://img.shields.io/badge/Git-e2ece9?style=flat-square&logo=git&logoColor=555555" />
+</p>
 
 ---
 
-📫 **How to Reach Me**: [khadkabhumika09@gmail.com](mailto:khadkabhumika09@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhumika-khadka)
+### 🐣 Highlighted Projects
