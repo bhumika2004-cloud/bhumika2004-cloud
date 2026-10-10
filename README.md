@@ -1,66 +1,53 @@
-<div align="center">
+# Hi there, I'm Bhumika Khadka! 👋
 
-<!-- PASTEL HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d8b4fe&height=200&section=header&text=✨%20Hi,%20I'm%20Bhumika%20Khadka%20✨&fontsize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
-### 🌸 CS Student | Aspiring Data Scientist & Engineer | Creative Builder 🌸
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhumika-khadka"><img src="https://img.shields.io/badge/LinkedIn-b8c0ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:khadkabhumika09@gmail.com"><img src="https://img.shields.io/badge/Email-fde2e4?style=for-the-badge&logo=gmail&logoColor=555555" /></a>
-  <a href="https://bhumika2004-cloud.github.io/Bhumika-portfolio/"><img src="https://img.shields.io/badge/Portfolio-d8e2dc?style=for-the-badge&logo=github&logoColor=555555" /></a>
-  <img src="https://img.shields.io/badge/Location-Ardmore,%20OK-e2ece9?style=for-the-badge&logo=googlemaps&logoColor=555555" />
-</p>
+I am an undergraduate Computer Science student at East Central University (GPA: 3.63) with a strong passion for full-stack development, Python, data processing, and AI integrations[cite: 1]. I love building practical applications that bridge backend data pipelines with interactive, user-friendly frontends.
 
 ---
 
-</div>
+## 🚀 Featured Projects
 
-### 🎀 About Me
+### 🗺️ Bhumika's Travel Journal
+* **Tech Stack:** Python, FastAPI, SQLite, Leaflet.js, GeoJSON, Pillow, HTML/CSS, JavaScript[cite: 1]
+* **What it does:** 
+  * Automated photo metadata ingestion using Python's Pillow library to extract EXIF data (latitude, longitude, timestamps) and reverse-geocode coordinates into location records via OpenStreetMap's Nominatim API[cite: 1].
+  * Loaded GeoJSON boundary data into a Leaflet.js map to highlight visited US states with translucent overlays and clickable tooltips[cite: 1].
+  * Added a timeline sidebar with live text search, state filtering, thumbnail previews, and `flyTo` animations that link sidebar entries to map markers[cite: 1].
+  * Set up FastAPI endpoints and SQLite schemas to handle image uploads, return location data, and track visited states[cite: 1].
 
-> *"Blending curiosity, creativity, and technical skills to explore how technology shapes the world—building my foundation one project, one certification, and one challenge at a time."*[cite: 1]
+### 🤖 AI-Powered Grammar Assistant
+* **Tech Stack:** Python, OpenAI API, Prompt Engineering[cite: 1]
+* **What it does:**
+  * Built a Python CLI app that runs in a continuous loop and corrects grammar and syntax in real time[cite: 1].
+  * Controlled output by setting a system role with negative constraints (`'Return only the corrected sentence'`), wrapping user input in double-quote delimiters to separate it from instructions, and setting temperature to `0.2` for consistent results[cite: 1].
+  * Added input validation and error handling to catch empty inputs and edge cases without crashing[cite: 1].
 
-* 🎓 **Education:** Pursuing a **B.S. in Computer Science** at **East Central University** (Expected Dec 2027)[cite: 1]
-* 💡 **Interests:** Data Science, Data Engineering, Web Development, and Digital Marketing Strategy[cite: 1]
-* 🏆 **Achievements:** Multi-semester President's & Dean's List Scholar[cite: 1] | Award-winning Web Developer | IPA 2026 Official Selection[cite: 1]
-* 🌟 **Currently:** Strengthening algorithms & database fundamentals while building creative end-to-end applications
-
----
-
-### 🎨 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-fde2e4?style=flat-square&logo=python&logoColor=555555" />
-  <img src="https://img.shields.io/badge/JavaScript-fff1e6?style=flat-square&logo=javascript&logoColor=555555" />
-  <img src="https://img.shields.io/badge/HTML5-fcd5ce?style=flat-square&logo=html5&logoColor=555555" />
-  <img src="https://img.shields.io/badge/CSS3-f8edeb?style=flat-square&logo=css3&logoColor=555555" />
-  <img src="https://img.shields.io/badge/SQL-e8e8e4?style=flat-square&logo=postgresql&logoColor=555555" />
-  <img src="https://img.shields.io/badge/Figma-d8e2dc?style=flat-square&logo=figma&logoColor=555555" />
-  <img src="https://img.shields.io/badge/AWS-ffe5ec?style=flat-square&logo=amazon-aws&logoColor=555555" />
-  <img src="https://img.shields.io/badge/VS_Code-f0efeb?style=flat-square&logo=visualstudiocode&logoColor=555555" />
-  <img src="https://img.shields.io/badge/Git-e2ece9?style=flat-square&logo=git&logoColor=555555" />
-</p>
+### 🐣 Hatch and Hunt
+* **Tech Stack:** HTML, CSS, JavaScript[cite: 1]
+* **What it does:**
+  * Built an interactive Easter-themed web app that was featured on the Programiz Wall of Inspiration for UI/UX design and originality[cite: 1].
+  * Made the app fully responsive using custom interactivity and responsive design principles[cite: 1].
 
 ---
 
-### 🐣 Featured Projects
+## 🛠️ Technical Skills
 
-| Project | Tech Stack | Highlights & Key Features | Links |
-| :--- | :--- | :--- | :--- |
-| **🐣 HATCH & HUNT** | `HTML5` `CSS3` `JavaScript` | • **Award-Winning:** Programiz Challenge Winner & featured on the Wall of Inspiration.<br>• **Multi-Page Web App:** Interactive Easter-themed platform engineered for immersive UI/UX.<br>• **Core Features:** Includes a timed "Egg Hunt" mini-game, custom "Egg Designer" canvas tool, dynamic hatch logic, and confetti celebration effects. | [Live Demo](https://bhumika2004-cloud.github.io/Bhumika-portfolio/) |
-| **📊 Market Data & Research Analytics** | `Data Analysis` `Market Research` `Figma` | • **Data Analytics:** Conducted comprehensive market research and data analysis during an 8-month stint at Global Opportunities Nepal.<br>• **Content Strategy:** Structured datasets and consumer insights to optimize digital reach and client conversion paths. | [Resume PDF](https://www.linkedin.com/in/bhumika-khadka) |
+* **Languages:** Python, SQL, JavaScript, HTML/CSS, C[cite: 1]
+* **AI/ML Tools:** OpenAI API, Prompt Engineering[cite: 1]
+* **Developer Tools:** VS Code, Google Cloud Platform, GitHub[cite: 1]
+* **Technologies & Frameworks:** FastAPI, Leaflet.js, SQLite, Pillow[cite: 1]
+
+---
+
+## 🏆 Awards & Honors
+
+* **Wall of Inspiration Feature (Spring 2026):** *Hatch and Hunt* was featured on the Programiz Wall of Inspiration for UI/UX design and originality[cite: 1].
+* **Best Beginner Build (Spring 2026):** Personal Portfolio Website won the Best Beginner Build title in the Programiz March Challenge[cite: 1].
 
 ---
 
-### 🏅 Honors & Certifications
-
-* 📜 **Introduction to Data Science**
-* 📜 **AWS Educate:** Getting Started with Networking
-* 📜 **The Fundamentals of Digital Marketing**
-* 🏆 **President's Honor Roll & Dean's List** (Spring '24, Fall '24, Fall '25)
-* 📸 **International Photography Awards (IPA) 2026** — Official Selection
-
----
+📫 **How to reach me:**
+* Email: [khadkabhumika09@gmail.com](mailto:khadkabhumika09@gmail.com)[cite: 1]
+* LinkedIn: [Bhumika Khadka](https://www.linkedin.com)[cite: 1]
 
 
 
