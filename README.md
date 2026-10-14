@@ -1,55 +1,46 @@
-# Hi there, I'm Bhumika Khadka! 👋
+# Hi there, I'm Bhumika Khadka 👋
 
-I am an undergraduate Computer Science student at East Central University (GPA: 3.63) with a strong passion for full-stack development, Python, data processing, and AI integrations. I love building practical applications that bridge backend data pipelines with interactive, user-friendly frontends.
-
----
-
-## 🚀 Featured Projects
-
-### 🗺️ Bhumika's Travel Journal
-* **Tech Stack:** Python, FastAPI, SQLite, Leaflet.js, GeoJSON, Pillow, HTML/CSS, JavaScript.
-* **What it does:** 
-  * Automated photo metadata ingestion using Python's Pillow library to extract EXIF data (latitude, longitude, timestamps) and reverse-geocode coordinates into location records via OpenStreetMap's Nominatim API.
-  * Loaded GeoJSON boundary data into a Leaflet.js map to highlight visited US states with translucent overlays and clickable tooltips.
-  * Added a timeline sidebar with live text search, state filtering, thumbnail previews, and `flyTo` animations that link sidebar entries to map markers.
-  * Set up FastAPI endpoints and SQLite schemas to handle image uploads, return location data, and track visited states.
-
-### 🤖 AI-Powered Grammar Assistant
-* **Tech Stack:** Python, OpenAI API, Prompt Engineering.
-* **What it does:**
-  * Built a Python CLI app that runs in a continuous loop and corrects grammar and syntax in real time.
-  * Controlled output by setting a system role with negative constraints (`'Return only the corrected sentence'`), wrapping user input in double-quote delimiters to separate it from instructions, and setting temperature to `0.2` for consistent results.
-  * Added input validation and error handling to catch empty inputs and edge cases without crashing.
-
-### 🐣 Hatch and Hunt
-* **Tech Stack:** HTML, CSS, JavaScript.
-* **What it does:**
-  * Built an interactive Easter-themed web app that was featured on the Programiz Wall of Inspiration for UI/UX design and originality.
-  * Made the app fully responsive using custom interactivity and responsive design principles.
+Undergraduate Computer Science & Data Analytics student at **East Central University** passionate about building data-driven web applications, machine learning models, and intuitive user experiences.
 
 ---
 
-## 🛠️ Technical Skills
+### 💻 Tech Stack
 
-* **Languages:** Python, SQL, JavaScript, HTML/CSS, C.
-* **AI/ML Tools:** OpenAI API, Prompt Engineering.
-* **Developer Tools:** VS Code, Google Cloud Platform, GitHub.
-* **Technologies & Frameworks:** FastAPI, Leaflet.js, SQLite, Pillow.
-
----
-
-## 🏆 Awards & Honors
-
-* **Wall of Inspiration Feature (Spring 2026):** *Hatch and Hunt* was featured on the Programiz Wall of Inspiration for UI/UX design and originality.
-* **Best Beginner Build (Spring 2026):** Personal Portfolio Website won the Best Beginner Build title in the Programiz March Challenge.
+- **Languages:** Python, JavaScript, SQL, HTML/CSS, C
+- **Frameworks & Libraries:** React, FastAPI, Vite, Leaflet.js, Pillow, pandas, NumPy, Matplotlib
+- **Databases & Cloud:** SQLite, Google Cloud Platform (GCP)
+- **Developer Tools:** Git, GitHub, VS Code, Tableau, Excel
+- **AI / ML:** OpenAI API, Prompt Engineering, Scikit-learn (Random Forest)
 
 ---
 
-📫 **How to reach me:**
-* Email: [khadkabhumika09@gmail.com](mailto:khadkabhumika09@gmail.com)
-* LinkedIn: [Bhumika Khadka](https://www.linkedin.com)
+### 🚀 Featured Projects
 
+#### 🤖 [Customer Churn Predictor](https://github.com/bhumika2004-cloud)
+- Full-stack web application with a **React (Vite)** frontend and an asynchronous **FastAPI** backend.
+- Features a real-time **Random Forest** classifier trained on tabular data for instant customer churn predictions.
 
+#### 📍 [Bhumika's Travel Journal](https://github.com/bhumika2004-cloud)
+- Interactive map application using **Leaflet.js**, **GeoJSON**, and **FastAPI**.
+- Automatically extracts EXIF metadata from uploaded photos with **Pillow** and reverse-geocodes coordinates via OpenStreetMap API.
 
+#### ✍️ [AI-Powered Grammar Assistant](https://github.com/bhumika2004-cloud)
+- Real-time CLI tool powered by the **OpenAI API** for instant grammar and syntax corrections.
+- Built with custom system prompts, strict temperature control, and edge-case handling.
 
+---
+
+### 🎓 Education & Honors
+
+- **B.S. in Computer Science** (Minor in Information Systems) — East Central University *(Expected Dec 2027)*
+- **GPA:** 3.63 | Dean's List & President's Honor Roll
+- **Awards:** *Best Beginner Build* & *Wall of Inspiration Feature* — Programiz Challenge
+
+---
+
+### 📬 Connect with Me
+
+- 🌐 **Portfolio:** [bhumika2004-cloud.github.io](https://bhumika2004-cloud.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/bhumika-khadka](https://linkedin.com)
+- 📧 **Email:** [khadkabhumika09@gmail.com](mailto:khadkabhumika09@gmail.com)
 
