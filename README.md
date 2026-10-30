@@ -85,10 +85,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.qnkn.workers.dev/api?username=bhumika2004-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bhumika2004-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika2004-cloud&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.qnkn.workers.dev/api/top-langs/?username=bhumika2004-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhumika2004-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </p>
