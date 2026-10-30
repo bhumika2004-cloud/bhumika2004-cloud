@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhumika2004-cloud&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <a href="https://linkedin.com/in/bhumika-khadka-profile-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bhumika2004-cloud.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://bhumika2004-cloud.github.io/Bhumika-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/GPA-3.63-success?style=flat-square" alt="GPA" />
 </p>
 
