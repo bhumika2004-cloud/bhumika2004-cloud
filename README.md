@@ -85,18 +85,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumika2004-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.qnkn.workers.dev/api?username=bhumika2004-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika2004-cloud&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2004-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2004-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.qnkn.workers.dev/api/top-langs/?username=bhumika2004-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </p>
