@@ -21,7 +21,7 @@ What I'm learning
 	•	Data fundamentals with IBM (Project-1-data)
 	•	Algorithms and data structures (Algorithm-Data-Structure)
 
-Tools I use
+
 
 Honors
 
